@@ -39,7 +39,7 @@ FID,OBJECTID,NAME,EASTING,NORTHING,LINES,NETWORK,Zone,x,y
 37,49,Holborn,530512,181525,"Central, Piccadilly",London Underground,1,-0.1188087,51.51706879
 38,50,Chancery Lane,531124,181615,Central,London Underground,1,-0.109960547,51.5177395
 39,51,St. Paul's,532108,181274,Central,London Underground,1,-0.095907533,51.51444286
-40,67,Paddington,526659,181314,"Hammersmith & City, District, Circle, Bakerloo",London Underground,1,-0.174388339,51.51605291
+40,67,Paddington 2,526659,181314,"Hammersmith & City, District, Circle, Bakerloo",London Underground,1,-0.174388339,51.51605291
 41,77,Embankment,530419,180396,"District, Bakerloo, Northern, Circle",London Underground,1,-0.120562428,51.50694137
 42,195,Westminster,530196,179668,"District, Circle, Jubilee",London Underground,1,-0.124052209,51.50045311
 43,197,Euston,529498,182668,"Northern, Victoria",London Underground,1,-0.132992071,51.52757668
